@@ -4,4 +4,3 @@
 - **Title:** Founder, CEO
 - **Organization:** Berkut Group
 - **Hobbies:** Running, gardening
-123
